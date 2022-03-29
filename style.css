@@ -268,7 +268,12 @@ footer{
     background-color: #b4adad;
     text-align: center;
     padding-top: 20px;
-    height: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.footer{
+    margin-top: 10px;
 }
 
 @media screen and (max-width:1040px){
