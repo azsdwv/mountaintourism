@@ -282,6 +282,7 @@ footer{
     text-align: center;
     padding-top: 20px;
     display: flex;
+    font-size: 22px;
     justify-content: center;
 
 }
