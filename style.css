@@ -96,7 +96,20 @@ body{
 a{
     color:#000;
 }
-
+#top{
+    display: none;
+    position: fixed;
+    background: none;
+    outline: none;
+    bottom: 80px; 
+    right: 18px; 
+    z-index: 1000;
+    border: none;
+    cursor: pointer;
+}
+#top:hover{
+    opacity: .6;
+}
 h1{
     font-weight: bold;
     font-size: 72px;
